@@ -23,3 +23,9 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+== credit: ==
+1- http://playground.arduino.cc/Main/CountUpDownTimer
+2- http://forum.arduino.cc/index.php?topic=314726.msg2179823#msg2179823
+3- http://forum.arduino.cc/index.php?topic=42211.msg306073#msg306073
+
