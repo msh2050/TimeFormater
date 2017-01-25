@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For TimeCounter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+timecounter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+getsHHMMSS			KEYWORD2
+timeminutes			KEYWORD2
+timesecond			KEYWORD2
+getHHMMSS			KEYWORD2
+numberOfSeconds		KEYWORD2
+numberOfMinutes		KEYWORD2
+numberOfHours		KEYWORD2
+MakeTime			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SECS_PER_MIN 	LITERAL1
+SECS_PER_HOUR	LITERAL1
+SECS_PER_DAY 	LITERAL1
+
+#######################################

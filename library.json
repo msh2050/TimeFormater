@@ -1,0 +1,16 @@
+{
+  "name": "TimeCounter",
+  "keywords": "TimeCounter",
+  "description": "hold seconds and easily give clock format (HH:MM:SS)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/msh2050/TimeCounter.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "teensy"
+  ]
+}
