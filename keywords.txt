@@ -1,26 +1,25 @@
 #######################################
-# Syntax Coloring Map For TimeCounter
+# Syntax Coloring Map For TimeFormater
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-timecounter	KEYWORD1
+TimeFormater	KEYWORD1
+Seconds			KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
 
-getsHHMMSS			KEYWORD2
-timeminutes			KEYWORD2
-timesecond			KEYWORD2
-getHHMMSS			KEYWORD2
+PrintHHMMSS			KEYWORD2			
 numberOfSeconds		KEYWORD2
 numberOfMinutes		KEYWORD2
 numberOfHours		KEYWORD2
-MakeTime			KEYWORD2
+PrintDigit			KEYWORD2
+printer				KEYWORD2
 
 #######################################
 # Constants (LITERAL1)

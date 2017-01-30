@@ -1,6 +1,9 @@
-#include <TimeCounter.h>
 
-timecounter tc;
+
+#include <TimeFormater.h>
+
+//initialize the printer class
+TimeFormater TF(Serial);
 
 void setup()
 {
@@ -11,11 +14,9 @@ void setup()
 
 void loop()
 {
-
-  /* add main program code here */
-	tc.Seconds += 1;
-	Serial.print(tc.Seconds, DEC);
-	Serial.print("  /  ");
-	Serial.println(tc.getHHMMSS());
+	TF.Seconds += 1;
+	TF.PrintHHMMSS();
+	Serial.println(" ");
 	delay(1000);
+
 }

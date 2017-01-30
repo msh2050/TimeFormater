@@ -1,9 +1,10 @@
-#TimeCounter#
+#TimeFormater#
 
-This is a light library, which will help you to convert seconds to time (HH:MM:SS)
-If you need other format, you must use the extended functions and edit the library to give you the needed results
+This is a light library, which will help you to print the time in (HH:MM:SS) format.
+If you need other format, you can extend the functions and edit the library to give you the needed results
 I add this library because it take less footprint and easy use in my example
-Please not that you should make the counter yourself, for me... I use tasks to count seconds
+Please not that you should give the seconds to the library (it willnot count the time),
+ for me... I use tasks to count seconds.
 
 
 == License ==
