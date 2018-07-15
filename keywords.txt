@@ -7,26 +7,26 @@
 #######################################
 
 TimeFormater	KEYWORD1
-Seconds			KEYWORD1
+Seconds	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
 
-PrintHHMMSS			KEYWORD2			
-numberOfSeconds		KEYWORD2
-numberOfMinutes		KEYWORD2
-numberOfHours		KEYWORD2
-PrintDigit			KEYWORD2
-printer				KEYWORD2
+PrintHHMMSS	KEYWORD2
+numberOfSeconds	KEYWORD2
+numberOfMinutes	KEYWORD2
+numberOfHours	KEYWORD2
+PrintDigit	KEYWORD2
+printer	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-SECS_PER_MIN 	LITERAL1
+SECS_PER_MIN	LITERAL1
 SECS_PER_HOUR	LITERAL1
-SECS_PER_DAY 	LITERAL1
+SECS_PER_DAY	LITERAL1
 
 #######################################
